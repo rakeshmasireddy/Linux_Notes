@@ -1,0 +1,11 @@
+1) Every part of the command is normally case-sensitive.
+2) The aptitude command is a package management tool available on some Linux distributions. This command will accept moo as an argument.
+3) ls , ls -l(long display), ls -r(Reverse)
+4) PWD  Printing Working Document.
+5) cd /(root), cd ~(home), cd ..
+6)  l	symbolic link	Points to another file.
+    s	socket	Allows for communication between processes.
+    p	pipe	Allows for communication between processes.
+    b	block file	Used to communicate with hardware.
+    c	character file	Used to communicate with hardware.
+7) ls -ltr - > -t represents timestamp
