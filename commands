@@ -9,3 +9,6 @@
     b	block file	Used to communicate with hardware.
     c	character file	Used to communicate with hardware.
 7) ls -ltr - > -t represents timestamp
+8) su -, su -l, su --login --> opens a new shell as a root user.(use exit)
+9) sudo - while switching between the users.
+10)  
